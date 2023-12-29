@@ -17,6 +17,10 @@ Ce script Python utilise les bibliothèques `sounddevice` et `scipy` pour enregi
 * Enregistrement audio pendant un nombre spécifié de secondes.
 * Sauvegarde du son enregistré dans un fichier WAV.
 
+## Exemple
+
+![Logo](images/image1)
+![Logo](images/image2)
 
 
 ## Contribuer
