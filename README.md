@@ -19,9 +19,8 @@ Ce script Python utilise les bibliothèques `sounddevice` et `scipy` pour enregi
 
 ## Exemple
 
-![Logo](images/image1.png)
 ![Logo](images/image2.png)
-
+![Logo](images/image1.png)
 
 ## Contribuer
 
